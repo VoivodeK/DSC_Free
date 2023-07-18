@@ -1,0 +1,21 @@
+2023/07/18-08:42:01.612 1f48 Recovering log #28
+2023/07/18-08:42:01.622 1f48 Delete type=0 #28
+2023/07/18-08:42:01.622 1f48 Delete type=3 #27
+2023/07/18-08:44:20.788 59d8 Level-0 table #32: started
+2023/07/18-08:44:20.788 59d8 Level-0 table #32: 0 bytes OK
+2023/07/18-08:44:20.791 59d8 Delete type=0 #30
+2023/07/18-08:44:20.797 59d8 Manual compaction at level-0 from '!fog!GzgioGP361QtCyez' @ 72057594037927935 : 1 .. '!fog!GzgioGP361QtCyez' @ 0 : 0; will stop at '!fog!GzgioGP361QtCyez' @ 2 : 1
+2023/07/18-08:44:20.797 59d8 Compacting 1@0 + 0@1 files
+2023/07/18-08:44:20.802 59d8 Generated table #33@0: 1 keys, 7554 bytes
+2023/07/18-08:44:20.802 59d8 Compacted 1@0 + 0@1 files => 7554 bytes
+2023/07/18-08:44:20.805 59d8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/18-08:44:20.805 59d8 Delete type=2 #23
+2023/07/18-08:44:20.825 59d8 Manual compaction at level-0 from '!fog!GzgioGP361QtCyez' @ 2 : 1 .. '!fog!GzgioGP361QtCyez' @ 0 : 0; will stop at (end)
+2023/07/18-08:44:20.829 59d8 Manual compaction at level-1 from '!fog!GzgioGP361QtCyez' @ 72057594037927935 : 1 .. '!fog!GzgioGP361QtCyez' @ 0 : 0; will stop at '!fog!GzgioGP361QtCyez' @ 3 : 1
+2023/07/18-08:44:20.829 59d8 Compacting 1@1 + 1@2 files
+2023/07/18-08:44:20.834 59d8 Generated table #34@1: 1 keys, 7554 bytes
+2023/07/18-08:44:20.834 59d8 Compacted 1@1 + 1@2 files => 7554 bytes
+2023/07/18-08:44:20.837 59d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/18-08:44:20.837 59d8 Delete type=2 #7
+2023/07/18-08:44:20.838 59d8 Delete type=2 #33
+2023/07/18-08:44:20.849 59d8 Manual compaction at level-1 from '!fog!GzgioGP361QtCyez' @ 3 : 1 .. '!fog!GzgioGP361QtCyez' @ 0 : 0; will stop at (end)
