@@ -10,6 +10,7 @@
   },
   "systemVersion": "2.2.2",
   "lastPlayed": "Tue Jul 18 2023 09:25:25 GMT-0700 (Pacific Daylight Time)",
+  "protected": true
   "packs": [
     {
       "type": "Item",
