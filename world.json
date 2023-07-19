@@ -6,8 +6,8 @@
   "url": "https://github.com/VoivodeK/DSC_Free",
   "readme": "",
   "license": "",
-  "manifest": "https://github.com/VoivodeK/DSC_Free/blob/main/world.json",
-  "download": "https://github.com/VoivodeK/DSC_Free/releases/download/Test2/world.zip"
+  "manifest": "https://github.com/VoivodeK/DSC_Free/releases/latest/download/world.json",
+  "download": "https://github.com/VoivodeK/DSC_Free/releases/latest/download/world.zip"
   "system": "dnd5e",
   "version": "1.0"
   "joinTheme": "default",
