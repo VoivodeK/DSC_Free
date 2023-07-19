@@ -1,11 +1,12 @@
 {
-  "id": "dsc-free",
+  "id": "DSC_free",
   "name": "dsc-free", 
   "title": "Test Git",
   "description": "DSC Free Content",
   "url": "https://github.com/VoivodeK/DSC_Free",
   "readme": "",
   "license": "",
+  "url": "",
   "manifest": "https://github.com/VoivodeK/DSC_Free/releases/latest/download/world.json",
   "download": "https://github.com/VoivodeK/DSC_Free/releases/latest/download/world.zip",
   "system": "dnd5e",
