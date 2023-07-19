@@ -9,7 +9,7 @@
   "manifest": "https://github.com/VoivodeK/DSC_Free/releases/latest/download/world.json",
   "download": "https://github.com/VoivodeK/DSC_Free/releases/latest/download/world.zip",
   "system": "dnd5e",
-  "version": "1.0"
+  "version": "1.0",
   "joinTheme": "default",
   "coreVersion": "11.305",
   "compatibility": {
