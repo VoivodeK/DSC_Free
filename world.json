@@ -1,8 +1,10 @@
 {
   "name": "dsc-free", 
   "title": "Test Git",
-  "id": "test-git",
+  "id": "dsc-free",
   "system": "dnd5e",
+  "description": "DSC Free Content",
+  "version": "1.0"
   "joinTheme": "default",
   "coreVersion": "11.305",
   "compatibility": {
