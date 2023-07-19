@@ -1,9 +1,13 @@
 {
+  "id": "dsc-free",
   "name": "dsc-free", 
   "title": "Test Git",
-  "id": "dsc-free",
-  "system": "dnd5e",
   "description": "DSC Free Content",
+  "url": "https://github.com/VoivodeK/DSC_Free",
+  "readme": "",
+  "license": "",
+  "manifest": "https://github.com/VoivodeK/DSC_Free/blob/main/world.json",
+  "system": "dnd5e",
   "version": "1.0"
   "joinTheme": "default",
   "coreVersion": "11.305",
